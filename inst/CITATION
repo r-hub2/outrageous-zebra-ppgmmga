@@ -1,0 +1,13 @@
+citHeader("To cite 'ppgmmga' R package in publications, please use:")
+
+bibentry(
+  bibtype = "Article",
+  title        = "Projection pursuit based on Gaussian mixtures and evolutionary algorithms",
+  author       = c(person(given="Luca", family="Scrucca"),
+                   person(given="Alessio", family="Serafini")),
+  journal      = "Journal of Computational and Graphical Statistics",
+  year         = "2019",
+  volume       = "28",
+  number       = "4",
+  pages        = "847–-860",
+  doi          = "10.1080/10618600.2019.1598871")
